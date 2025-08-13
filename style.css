@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -69,3 +70,8 @@
     font-size: 18px;
     cursor: pointer;
 }
+=======
+h1{
+    font-size: 100px;
+}
+>>>>>>> ccb8b55a465e2c575453f88218cebc8ece3eefce
