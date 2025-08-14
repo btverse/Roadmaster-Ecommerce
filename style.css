@@ -19,7 +19,7 @@ main {
 }
 
 .nav-bar {
-    background: linear-gradient(45deg, #232526, #414345);
+    background-color: transparent;
     border: 1px solid black;
     display: flex;
     justify-content: space-between;
