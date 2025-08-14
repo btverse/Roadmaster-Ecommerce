@@ -15,7 +15,7 @@
 }
 
 .logo img {
-    height: 80px;
+    max-height: 80px;
     width: auto;
     background-color: transparent;
 }
