@@ -73,3 +73,96 @@
 h1{
     font-size: 100px;
 }
+
+.footer{
+    background-color: rgb(31, 29, 29);
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 20px 0;
+    
+}
+.f-main-ul{
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+.f-link-title{
+    margin-bottom: 25px;
+}
+
+.link-item{
+    list-style-type: none;
+    width: 200px;
+}
+
+.f-nav-item{
+    list-style-type: none;
+    margin-bottom: 10px
+}
+
+.f-nav-item:hover{
+    color: red;
+    cursor: pointer;
+}
+
+/* line */
+
+.line{
+    width: 80%;
+    border: 1px solid grey;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+/* end */
+.f-end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+#f-logo{
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+}
+
+.f-address{
+    width: 200px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.f-con-li{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.f-line2{
+    height: 20px;
+    border: 1px solid grey;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover {
+    color: red;
+}
